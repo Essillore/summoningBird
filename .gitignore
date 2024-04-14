@@ -73,5 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-#Art packs
-Content\Modular_MedievalTown_WI\*
+# Art packs
+** /Modular_MedievalTown_WI/*
